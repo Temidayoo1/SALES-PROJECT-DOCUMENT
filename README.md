@@ -1,5 +1,13 @@
 # SALES-PROJECT-DOCUMENTATION
+
 ## project title: Ecoomerce
+[PROJECT Overview](#project-overview)
+- [DATA sources](#data-sources)
+- TOOLS used
+- Data Cleaning and preparations
+- Exploiratory data analyisis
+- Data Analysis
+  
 ### PROJECT Overview
 to do DATA
 
