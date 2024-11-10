@@ -8,8 +8,29 @@ World bank, UN
 
 ### TOOLS used
 - Excel [download here](http://www.microsoft.com)
-- 1. data cleaning
-  2. Analysis
-  3. visualiation
-- SQL
-- Gitub
+- 1. for data cleaning
+  2. for Analysis
+  3. for data visualiation
+- SQL for quering of data
+- Gitub for portfolio buiding
+
+### Data Cleaning and preparations
+1. data loading and inspection
+2. handling missing variables 
+3. data cleaning and formatting
+
+### Exploiratory data analyisis
+EDA involved the exploring of thr data to answer some questions about the data such as;
+1. What is the overal trend?
+2. which product are top sellers?
+3. what are the product on peak sales?
+   
+###Data Analysis
+This is whre we include some basic lines of code or queries or even some of the dax expressions used my analysis
+```SQL
+select *from Table1
+where condition = true
+```
+
+
+   
