@@ -7,7 +7,7 @@ to do DATA
 World bank, UN
 
 ### TOOLS used
-- Excel [download here](http://www.microsoft.com)
+- Excel [download here](https://github.com/Temidayoo1/SALES-PROJECT-DOCUMENT/blob/main/sales%20data%20litaa%20csv.csv)
 - 1. for data cleaning
   2. for Analysis
   3. for data visualiation
