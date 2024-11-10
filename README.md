@@ -8,7 +8,7 @@ World bank, UN
 
 ### TOOLS used
 - Excel [download here](https://github.com/Temidayoo1/SALES-PROJECT-DOCUMENT/blob/main/sales%20data%20litaa%20csv.csv)
-- 1. for data cleaning
+- 1. for data cleaning https://github.com/Temidayoo1/SALES-PROJECT-DOCUMENT/blob/main/4.png
   2. for Analysis
   3. for data visualiation
 - SQL for quering of data
